@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="tab_text_1">Şanslı Lezzetler</string>
+    <string name="tab_text_2">Kategoriler</string>
+</resources>
